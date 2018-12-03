@@ -1,0 +1,10 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.mt:maven-web-project >----------------------
+[INFO] Building Maven Web Project 22nd April 1.0
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] >>> maven-archetype-plugin:3.0.1:generate (default-cli) > generate-sources @ maven-web-project >>>
+[INFO] 
+[INFO] --- jacoco-maven-plugin:0.7.8:prepare-agent (agent-for-ut) @ maven-web-project ---
+Terminate batch job (Y/N)? 
